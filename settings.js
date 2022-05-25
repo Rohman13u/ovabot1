@@ -28,7 +28,7 @@ global.ownernomer = '6285878105774' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'OVA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Ova-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'OVA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
